@@ -1,6 +1,3 @@
 # IP_LOGGED
-Logged IP
-## What's this for, exactly?
-It's a place for [Grabify](grabify.link) links to get your friends IP.
-## Is it useless?
-Yes.
+## What is this
+IP_LOGGED is a GitHub Pages site that you should redirect [Grabify](https://grabify.link/) to.
